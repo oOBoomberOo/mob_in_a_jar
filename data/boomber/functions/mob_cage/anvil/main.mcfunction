@@ -1,0 +1,1 @@
+execute if block ~ ~-0.25 ~ minecraft:spawner as @e[type=#boomber:mob_cage/list, distance=..0.8, limit=1] align xyz positioned ~0.5 ~-0.5 ~0.5 run function boomber:mob_cage/anvil/hit
